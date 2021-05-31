@@ -4,7 +4,7 @@
 </br>
 </br>
 <a href="https://github.com/YJ-S2">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=YJ-S2&theme=omni&hide=contribs"/>
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=YJ-S2&theme=omni&hide=contribs,issues"/>
 </a>
 
 <!--
