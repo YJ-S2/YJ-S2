@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </br>
 
 <a href="https://github.com/YJ-S2">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-S2&theme=cobalt&langs_count=3"/>
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-S2&theme=cobalt"/>
 </a>
 
 
