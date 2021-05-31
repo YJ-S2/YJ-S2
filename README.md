@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white"> -->
 
 </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-S2)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
