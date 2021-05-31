@@ -27,6 +27,17 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-S2&theme=omni&hide=contribs)]
+
+<a href="https://github.com/YJ-S2/github-readme-stats">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=YJ-S2&theme=omni&hide=contribs"/>
+</a>
+
+</br>
+</br>
+</br>
+
+<a href="https://github.com/YJ-S2/github-readme-stats">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-S2&theme=jolly"/>
+</a>
 
 </div>
